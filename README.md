@@ -2,9 +2,6 @@
 
 Este é um projeto de formulário de matrícula para uma escola fictícia chamada **Estrelas do Amanhã**. Desenvolvido com foco em usabilidade, visual agradável e responsividade, o formulário permite simular a inscrição de crianças na escola, capturando dados pessoais, preferências de turno, esportes, e documentos.
 
-![Preview 1](./Captura%20de%20imagem_20250726_185921.png)  
-![Preview 2](./Captura%20de%20imagem_20250726_190010.png)
-
 ---
 
 ### ✨ Funcionalidades
